@@ -7,12 +7,19 @@ Sebuah aplikasi e-commerce modern berbasis **Flutter** yang dikhususkan untuk pe
 ## ✨ Fitur Utama (Features)
 
 1. **Beranda Produk (Home Screen)**
+
+     <img width="246" height="462" alt="image" src="https://github.com/user-attachments/assets/38960901-cffa-4c65-9b88-d7eb3b54b749" />
+
+   
    - Menampilkan daftar produk TWS dalam bentuk Grid yang modern dengan *card* yang elegan dilengkapi efek bayangan (shadow) yang subtle.
    - **Pencarian (Search):** Pengguna dapat mencari produk berdasarkan nama secara *real-time*.
    - **Kategori (Filter):** Fitur filter (misal: 'All', 'ANC TWS', 'Sports', 'Audiophile') menggunakan *chips* horizontal yang interaktif.
    - **Add to Cart:** Tombol langsung di setiap *card* produk untuk mempermudah penambahan barang ke keranjang beserta notifikasi *SnackBar* sukses.
 
 2. **Keranjang Belanja (Cart Screen)**
+
+   <img width="243" height="463" alt="image" src="https://github.com/user-attachments/assets/0c4a478b-2fed-464f-8245-55d0b9c2917f" />
+
    - Menampilkan seluruh item yang ditambahkan ke keranjang belanja lengkap dengan foto, nama, harga, dan kuantitas.
    - **Update Kuantitas (+/-):** Pengguna bisa menambah atau mengurangi jumlah barang. Jika dikurangi hingga 0, barang otomatis terhapus dari keranjang.
    - **Hapus Item:** Indikator ikon tempat sampah (trash) untuk langsung menghapus satu tipe barang dari keranjang secara spesifik.
@@ -20,6 +27,9 @@ Sebuah aplikasi e-commerce modern berbasis **Flutter** yang dikhususkan untuk pe
    - **Clear Cart:** Tombol di bagian atas untuk mengosongkan keseluruhan isi keranjang.
 
 3. **Halaman Pembayaran (Checkout Screen)**
+   
+   <img width="242" height="467" alt="image" src="https://github.com/user-attachments/assets/42bc416d-ab86-413c-a19a-1067783ba03d" />
+
    - Memberikan ringkasan harga produk, dan rincian biaya pengiriman (gratis ongkos kirim secara *default* di versi ini).
    - Menyediakan form data alamat pengiriman dengan validasi agar tidak ada input yang kosong sebelum proses checkout selesai.
    - Setelah checkout berhasil, keranjang akan dibersihkan (*cleared*) dan pengguna akan dikembalikan ke layar utama.
