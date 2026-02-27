@@ -108,4 +108,4 @@ Aplikasi ini menggunakan desain gaya ***Minimalist & Clean***:
 
 ---
 
-_Didesain dan dikerjakan sebagai bagian dari Tugas Pengembangan Aplikasi Berbasis (PAB)._
+_Didesain dan dikerjakan sebagai bagian dari Tugas Pemrograman Aplikasi Bergerak (PAB)._
